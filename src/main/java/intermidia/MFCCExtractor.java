@@ -118,7 +118,7 @@ public class MFCCExtractor
     	inputAudioMFCCRaw.close();
     	mfccWriter.close();    	    	
     	
-    	System.exit(0);
+    	//System.exit(0);
     	
     
     }
